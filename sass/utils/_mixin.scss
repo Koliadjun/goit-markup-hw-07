@@ -1,0 +1,7 @@
+@mixin flexbox {
+  display: flex;
+}
+
+@mixin getWidth($collum-number, $gatter) {
+  width: calc((100% - (#{$gatter} * (#{$collum-number}))) / #{$collum-number});
+}

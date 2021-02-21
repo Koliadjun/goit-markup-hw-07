@@ -1,119 +1,75 @@
-// -----------------------------------------------------------------------------
-// This file contains all @font-face declarations, if any.
-// -----------------------------------------------------------------------------
 /* roboto-regular - latin_cyrillic */
 @font-face {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 400;
+  src: url("../fonts/roboto-v20-latin_cyrillic-regular.eot"); /* IE9 Compat Modes */
   src: local(""),
-    url("../fonts/roboto-v20-latin_cyrillic-regular.woff2") format("woff2"),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("../fonts/roboto-v20-latin_cyrillic-regular.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("../fonts/roboto-v20-latin_cyrillic-regular.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/roboto-v20-latin_cyrillic-regular.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../fonts/roboto-v20-latin_cyrillic-regular.woff") format("woff"),
+    /* Modern Browsers */ url("../fonts/roboto-v20-latin_cyrillic-regular.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/roboto-v20-latin_cyrillic-regular.svg#Roboto") format("svg"); /* Legacy iOS */
 }
 /* roboto-500 - latin_cyrillic */
 @font-face {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 500;
+  src: url("../fonts/roboto-v20-latin_cyrillic-500.eot"); /* IE9 Compat Modes */
   src: local(""),
-    url("../fonts/roboto-v20-latin_cyrillic-500.woff2") format("woff2"),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("../fonts/roboto-v20-latin_cyrillic-500.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("../fonts/roboto-v20-latin_cyrillic-500.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/roboto-v20-latin_cyrillic-500.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../fonts/roboto-v20-latin_cyrillic-500.woff") format("woff"),
+    /* Modern Browsers */ url("../fonts/roboto-v20-latin_cyrillic-500.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/roboto-v20-latin_cyrillic-500.svg#Roboto") format("svg"); /* Legacy iOS */
 }
 /* roboto-700 - latin_cyrillic */
 @font-face {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
+  src: url("../fonts/roboto-v20-latin_cyrillic-700.eot"); /* IE9 Compat Modes */
   src: local(""),
-    url("../fonts/roboto-v20-latin_cyrillic-700.woff2") format("woff2"),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("../fonts/roboto-v20-latin_cyrillic-700.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("../fonts/roboto-v20-latin_cyrillic-700.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/roboto-v20-latin_cyrillic-700.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../fonts/roboto-v20-latin_cyrillic-700.woff") format("woff"),
+    /* Modern Browsers */ url("../fonts/roboto-v20-latin_cyrillic-700.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/roboto-v20-latin_cyrillic-700.svg#Roboto") format("svg"); /* Legacy iOS */
 }
 /* roboto-900 - latin_cyrillic */
 @font-face {
   font-family: "Roboto";
   font-style: normal;
   font-weight: 900;
+  src: url("../fonts/roboto-v20-latin_cyrillic-900.eot"); /* IE9 Compat Modes */
   src: local(""),
-    url("../fonts/roboto-v20-latin_cyrillic-900.woff2") format("woff2"),
-    /* Chrome 26+, Opera 23+, Firefox 39+ */
-      url("../fonts/roboto-v20-latin_cyrillic-900.woff") format("woff"); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+    url("../fonts/roboto-v20-latin_cyrillic-900.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../fonts/roboto-v20-latin_cyrillic-900.woff2")
+      format("woff2"),
+    /* Super Modern Browsers */
+      url("../fonts/roboto-v20-latin_cyrillic-900.woff") format("woff"),
+    /* Modern Browsers */ url("../fonts/roboto-v20-latin_cyrillic-900.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */
+      url("../fonts/roboto-v20-latin_cyrillic-900.svg#Roboto") format("svg"); /* Legacy iOS */
 }
-
-Raleway
-sans-serif
-18 styles 100, 200, regular, 300, 500, 600, 700, 800, 900, 100italic, 200italic, 300italic, italic, 500italic, 600italic, 700italic, 800italic, 900italic
-5 charsets cyrillic, cyrillic-ext, latin, latin-ext, vietnamese
-Rank 11 in popularity of 1043 fonts in total
-Last modified 2021-01-30 (v19)
-1. Select charsets: (default is latin)
-cyrilliccyrillic-extlatinlatin-extvietnamese
-2. Select styles: (default is regular)
-Preview size
-16
-px
- Sample text editable.
-100
-The quick brown fox jumps over the lazy dog.
-
-200
-The quick brown fox jumps over the lazy dog.
-
-regular
-The quick brown fox jumps over the lazy dog.
-
-300
-The quick brown fox jumps over the lazy dog.
-
-500
-The quick brown fox jumps over the lazy dog.
-
-600
-The quick brown fox jumps over the lazy dog.
-
-700
-The quick brown fox jumps over the lazy dog.
-
-800
-The quick brown fox jumps over the lazy dog.
-
-900
-The quick brown fox jumps over the lazy dog.
-
-100italic
-The quick brown fox jumps over the lazy dog.
-
-200italic
-The quick brown fox jumps over the lazy dog.
-
-300italic
-The quick brown fox jumps over the lazy dog.
-
-italic
-The quick brown fox jumps over the lazy dog.
-
-500italic
-The quick brown fox jumps over the lazy dog.
-
-600italic
-The quick brown fox jumps over the lazy dog.
-
-700italic
-The quick brown fox jumps over the lazy dog.
-
-800italic
-The quick brown fox jumps over the lazy dog.
-
-900italic
-The quick brown fox jumps over the lazy dog.
-
-3. Copy CSS: (default is Best Support)
-Best Support
-Modern Browsers
-Choose Best Support if old browsers still need to be supported. Formats in this snippet: [eot,woff,woff2,ttf,svg]
-
 /* raleway-regular - latin_cyrillic */
 @font-face {
   font-family: "Raleway";

@@ -17,3 +17,9 @@
   width: 1px !important;
   overflow: hidden;
 }
+.is-hidden {
+  visibility: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(-100%);
+}

@@ -1,5 +1,5 @@
 .address-list {
-  @include flexbox();
+  @extend %dis-flex;
   margin-left: auto;
 }
 .address-item:not(:last-child) {

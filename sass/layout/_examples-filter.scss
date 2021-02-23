@@ -1,6 +1,6 @@
 /* == examples section ==*/
 .examples-filter {
-  @include flexbox();
+  @extend %dis-flex;
   margin-bottom: 50px;
   justify-content: center;
 }

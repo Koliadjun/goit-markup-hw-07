@@ -5,11 +5,11 @@
   border-bottom: 1px solid #ececec;
 }
 .header-navigation {
-  @include flexbox();
+  @extend %dis-flex;
 }
 .header-address,
 .navigation-list {
-  @include flexbox();
+  @extend %dis-flex;
   align-items: center;
 
   font-weight: 500;

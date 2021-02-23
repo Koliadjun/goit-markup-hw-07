@@ -7,10 +7,10 @@
   // width: 100%; /* 1 */
 }
 .header .container {
-  @include flexbox();
+  @extend %dis-flex;
   align-items: center;
 }
 .footer .container {
-  @include flexbox();
+  @extend %dis-flex;
   align-items: baseline;
 }

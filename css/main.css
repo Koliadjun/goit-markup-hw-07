@@ -1,3 +1,8 @@
+.header .container, .footer .container, .address-list, .social-list, .modal-form-agriment-label, .header-navigation, .header-address,
+.navigation-list, .features-list, .doing-list, .team-list, .examples-filter, .examples-list {
+  display: flex;
+}
+
 /* roboto-regular - latin_cyrillic */
 @font-face {
   font-family: "Roboto";
@@ -279,12 +284,10 @@ p {
 }
 
 .header .container {
-  display: flex;
   align-items: center;
 }
 
 .footer .container {
-  display: flex;
   align-items: baseline;
 }
 
@@ -334,7 +337,6 @@ p {
 }
 
 .address-list {
-  display: flex;
   margin-left: auto;
 }
 
@@ -380,10 +382,6 @@ p {
 
 .modal-button:hover, .modal-button:focus {
   background-color: #188ce8;
-}
-
-.social-list {
-  display: flex;
 }
 
 .social-list-item {
@@ -549,7 +547,6 @@ p {
 }
 
 .modal-form-agriment-label {
-  display: flex;
   margin-right: 4px;
   line-height: 1.71;
   align-items: center;
@@ -588,13 +585,8 @@ p {
   border-bottom: 1px solid #ececec;
 }
 
-.header-navigation {
-  display: flex;
-}
-
 .header-address,
 .navigation-list {
-  display: flex;
   align-items: center;
   font-weight: 500;
   line-height: 1.143;
@@ -658,10 +650,6 @@ p {
   margin-bottom: 30px;
 }
 
-.features-list {
-  display: flex;
-}
-
 .features-list-title {
   font-weight: 700;
   line-height: 1.143;
@@ -700,10 +688,6 @@ p {
 }
 
 /* == What we do styles == */
-.doing-list {
-  display: flex;
-}
-
 .doing-list-item {
   position: relative;
   display: flex;
@@ -734,7 +718,6 @@ p {
 }
 
 .team-list {
-  display: flex;
   font-size: 16px;
 }
 
@@ -895,7 +878,6 @@ p {
 
 /* == examples section ==*/
 .examples-filter {
-  display: flex;
   margin-bottom: 50px;
   justify-content: center;
 }
@@ -925,7 +907,6 @@ p {
 }
 
 .examples-list {
-  display: flex;
   flex-wrap: wrap;
   margin-right: -30px;
   margin-bottom: -30px;

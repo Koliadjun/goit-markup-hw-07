@@ -69,7 +69,7 @@
   color: $active-link-color;
 }
 .modal-form-agriment-label {
-  @include flexbox();
+  @extend %dis-flex;
   margin-right: 4px;
   line-height: 1.71;
   align-items: center;

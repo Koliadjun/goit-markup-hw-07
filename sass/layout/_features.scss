@@ -1,5 +1,5 @@
 .features-list {
-  @include flexbox();
+  @extend %dis-flex;
 }
 .features-list-title {
   font-weight: 700;

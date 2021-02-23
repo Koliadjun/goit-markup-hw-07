@@ -2,7 +2,7 @@
   background-color: $light-background-color;
 }
 .team-list {
-  @include flexbox();
+  @extend %dis-flex;
   font-size: 16px;
 }
 .team-list-title {

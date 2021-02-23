@@ -1,5 +1,5 @@
 .examples-list {
-  @include flexbox();
+  @extend %dis-flex;
   flex-wrap: wrap;
   margin-right: $double-gatter-size * -1;
 

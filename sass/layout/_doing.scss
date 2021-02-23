@@ -1,6 +1,6 @@
 /* == What we do styles == */
 .doing-list {
-  @include flexbox();
+  @extend %dis-flex;
 }
 .doing-list-item {
   position: relative;

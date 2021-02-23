@@ -276,8 +276,6 @@ p {
   /* 3 */
   padding-right: 15px;
   /* 3 */
-  width: 100%;
-  /* 1 */
 }
 
 .header .container {
@@ -584,6 +582,10 @@ p {
 .modal-button-form {
   min-width: 200px;
   align-self: center;
+}
+
+.header {
+  border-bottom: 1px solid #ececec;
 }
 
 .header-navigation {

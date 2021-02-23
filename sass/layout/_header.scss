@@ -1,7 +1,9 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the header of the site/application.
 // -----------------------------------------------------------------------------
-
+.header {
+  border-bottom: 1px solid #ececec;
+}
 .header-navigation {
   @include flexbox();
 }

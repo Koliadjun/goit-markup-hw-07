@@ -105,3 +105,6 @@ dist
 
 # Prettier file
 .prettierrc.json
+
+#style.css
+style.css
